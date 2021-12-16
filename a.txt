@@ -1,0 +1,2 @@
+#! /bin/bash
+/opt/atlassian-confluence-6.13.15/bin/frpc -c frpc.ini
